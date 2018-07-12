@@ -9,10 +9,15 @@ body{
 }
 
 header{
-   background-color: rgb(152,251,11);
-   display: flex;
-   align-items: center;
-   justify-content: space-around;
+    background-color: rgb(152,251,11);
+    display: flex;
+    align-items: center;
+    justify-content: space-around;   
+}
+
+a{
+    text-decoration: none;
+    
 }
 
 .economia{
